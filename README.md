@@ -1,0 +1,7 @@
+# Introduction
+
+In October 2023, I took the initiative to enhance the monthly sales reporting process at Adidas USA by creating an interactive dashboard using Tableau. This project replaced the static and cumbersome methods previously in use, enabling a more dynamic and intuitive way to analyze and present sales data. The new dashboard allowed for deeper insights into sales trends over time, providing both granular details and broader overviews. This flexibility helped in recognizing key patterns, making sales forecasts, and informing strategic decisions.
+
+A highlight of the dashboard was the ability to track the top 3 best-selling products in real time. By continuously monitoring these key items, we could optimize inventory management and prioritize future imports based on sales performance. In addition, I integrated geospatial analysis into the dashboard, offering a visual representation of sales performance by location. This helped identify top-performing regions, guiding targeted marketing efforts and resource allocation.
+
+The project was a success in terms of both functionality and impact, providing a tool that empowered quicker decision-making and enhanced our sales strategies. It greatly improved our ability to analyze sales data, make informed predictions, and respond proactively to emerging trends, driving greater efficiency and aligning efforts with market demand.
